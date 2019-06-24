@@ -10,4 +10,5 @@ data/*
 **/.RData
 **/.Rhistory
 
-#
+#ignore shinyapp.io
+rsconnect/*
