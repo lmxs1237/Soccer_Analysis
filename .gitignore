@@ -4,8 +4,10 @@
 # ignore raw data
 data/*
 
-# ignore .DS_Store
-*/.DS_Store
-*/.ipynb_checkpoints/
+# ignore check file
+**/.DS_Store
+**/.ipynb_checkpoints/
+**/.RData
+**/.Rhistory
 
 #
