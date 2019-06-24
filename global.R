@@ -8,7 +8,7 @@ library(RColorBrewer)
 
 source("./helpers.R")
 # # 
-dbname <- "./soccer"
+dbname <- "./test"
 qq1 <- "q1"
 qq2 <- "q2"
 qq3 <- "q3"
